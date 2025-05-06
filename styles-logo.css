@@ -1,0 +1,38 @@
+.main-logo {
+    width: 200px;
+    height: 200px;
+    margin: 0 auto;
+    background-color: var(--light-color);
+    border-radius: 50%;
+    padding: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.main-logo img {
+    width: 85%;
+    height: 85%;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
+.footer-logo img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: contain;
+    background-color: var(--light-color);
+    padding: 10px;
+}
+
+.sow-logo img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    object-fit: contain;
+    background-color: var(--light-color);
+    padding: 10px;
+}
